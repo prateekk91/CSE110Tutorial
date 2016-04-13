@@ -6,6 +6,8 @@ package com.android.helloworld2;
 public class Calculator {
     public int add(int a, int b)
     {
-        return a+b;
+        int x = a;
+        int y = b;
+        return x+y;
     }
 }
