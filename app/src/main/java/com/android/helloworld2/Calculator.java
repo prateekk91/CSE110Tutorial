@@ -8,6 +8,6 @@ public class Calculator {
     {
         int x = a;
         int y = b;
-        return x+y;
+        return x-y;
     }
 }
